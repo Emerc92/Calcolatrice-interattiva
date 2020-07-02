@@ -7,5 +7,6 @@ public class Main {
 		Calcoli.calcolatrice();
 		System.out.println("cacca");
 		System.out.println("TI AMO VERO");
+		System.out.println("cacca push test");
 	}
 }
