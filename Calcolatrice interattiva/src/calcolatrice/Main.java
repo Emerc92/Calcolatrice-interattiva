@@ -4,9 +4,10 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		Calcoli.calcolatrice();
-		System.out.println("cacca");
-		System.out.println("TI AMO VERO");
-		System.out.println("cacca push test");
+		@SuppressWarnings("unused")
+		Calcoli a = new Calcoli();
+		
+
 	}
+
 }
